@@ -1,0 +1,4 @@
+baseURL = "https://instrument-musicbeetoo.vercel.app"
+languageCode = "en-us"
+title = "Flute Music Instrument"
+theme = "hugo-theme-minos"
